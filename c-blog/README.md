@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # c-blog
 
 Used to store static resources and access resource links through jsdelivr CDN.
@@ -11,7 +10,7 @@ Used to store static resources and access resource links through jsdelivr CDN.
 https://cdn.jsdelivr.net/gh/qiyoe/c-blog/
 ```
 
-e.g. [https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/imgs/avatar/avatar-60x60.png](https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/imgs/avatar/avatar-60x60.png)
+e.g. [https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/avatar/avatar-60x60.png](https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/avatar/avatar-60x60.png)
 
 ### No cache:
 
@@ -19,7 +18,7 @@ e.g. [https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/imgs/avatar/avata
 https://cdn.jsdelivr.net/gh/qiyoe/c-blog@latest/
 ```
 
-e.g. [https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog@latest/imgs/avatar/avatar-60x60.png](https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog@latest/imgs/avatar/avatar-60x60.png)
+e.g. [https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog@latest/avatar/avatar-60x60.png](https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog@latest/avatar/avatar-60x60.png)
 
 ### Clear cache:
 
@@ -27,35 +26,4 @@ e.g. [https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog@latest/imgs/avata
 https://purge.jsdelivr.net/gh/qiyoe/c-blog/
 ```
 
-e.g. [https://purge.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/imgs/avatar/avatar-60x60.png](https://purge.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/imgs/avatar/avatar-60x60.png)
-=======
-# c-blog
-
-Used to store static resources and access resource links through jsdelivr CDN.
-
-## Link Prefix
-
-### Normal:
-
-```
-https://cdn.jsdelivr.net/gh/qiyoe/c-blog/
-```
-
-e.g. [https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/imgs/avatar/avatar-60x60.png](https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/imgs/avatar/avatar-60x60.png)
-
-### No cache:
-
-```
-https://cdn.jsdelivr.net/gh/qiyoe/c-blog@latest/
-```
-
-e.g. [https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog@latest/imgs/avatar/avatar-60x60.png](https://cdn.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog@latest/imgs/avatar/avatar-60x60.png)
-
-### Clear cache:
-
-```
-https://purge.jsdelivr.net/gh/qiyoe/c-blog/
-```
-
-e.g. [https://purge.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/imgs/avatar/avatar-60x60.png](https://purge.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/imgs/avatar/avatar-60x60.png)
->>>>>>> f44cd9141aecec55f5b229a42fb917afbea05da8
+e.g. [https://purge.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/avatar/avatar-60x60.png](https://purge.jsdelivr.net/gh/qiyoe/qiyoe.github.io/c-blog/avatar/avatar-60x60.png)
